@@ -1,1 +1,1 @@
-Algorism_Study
+Algorithm_Study
